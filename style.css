@@ -1,0 +1,15 @@
+
+.btn{
+    background-color: white;
+    color: red;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px dotted red;
+    
+}
+.itemlist{
+    display: flex;
+}
+.itemlist{
+    margin: 10px;
+}
